@@ -1,0 +1,76 @@
+D:\job do an\Thao\CongVan3\obj\Debug\net6.0-windows\CongVan3.csproj.AssemblyReference.cache
+D:\job do an\Thao\CongVan3\obj\Debug\net6.0-windows\CongVan3.csproj.GenerateResource.cache
+D:\job do an\Thao\CongVan3\obj\Debug\net6.0-windows\CongVan3.GeneratedMSBuildEditorConfig.editorconfig
+D:\job do an\Thao\CongVan3\obj\Debug\net6.0-windows\CongVan3.AssemblyInfoInputs.cache
+D:\job do an\Thao\CongVan3\obj\Debug\net6.0-windows\CongVan3.AssemblyInfo.cs
+D:\job do an\Thao\CongVan3\obj\Debug\net6.0-windows\CongVan3.csproj.CoreCompileInputs.cache
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\CongVan3.exe
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\CongVan3.deps.json
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\CongVan3.runtimeconfig.json
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\CongVan3.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\CongVan3.pdb
+D:\job do an\Thao\CongVan3\obj\Debug\net6.0-windows\CongVan3.dll
+D:\job do an\Thao\CongVan3\obj\Debug\net6.0-windows\refint\CongVan3.dll
+D:\job do an\Thao\CongVan3\obj\Debug\net6.0-windows\CongVan3.pdb
+D:\job do an\Thao\CongVan3\obj\Debug\net6.0-windows\CongVan3.genruntimeconfig.cache
+D:\job do an\Thao\CongVan3\obj\Debug\net6.0-windows\ref\CongVan3.dll
+D:\job do an\Thao\CongVan3\obj\Debug\net6.0-windows\CongVan3.Form2.resources
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\PdfSharp.Quality.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\PdfSharp.Snippets.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\PdfSharp.System.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\PdfSharp.WPFonts.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\PdfSharp.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+D:\job do an\Thao\CongVan3\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+D:\job do an\Thao\CongVan3\obj\Debug\net6.0-windows\CongVan3.csproj.CopyComplete
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\CongVan3.exe
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\CongVan3.deps.json
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\CongVan3.runtimeconfig.json
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\CongVan3.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\CongVan3.pdb
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\PdfSharp.Quality.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\PdfSharp.Snippets.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\PdfSharp.System.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\PdfSharp.WPFonts.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\PdfSharp.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\obj\Debug\net6.0-windows\CongVan3.csproj.AssemblyReference.cache
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\obj\Debug\net6.0-windows\CongVan3.Form2.resources
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\obj\Debug\net6.0-windows\CongVan3.csproj.GenerateResource.cache
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\obj\Debug\net6.0-windows\CongVan3.GeneratedMSBuildEditorConfig.editorconfig
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\obj\Debug\net6.0-windows\CongVan3.AssemblyInfoInputs.cache
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\obj\Debug\net6.0-windows\CongVan3.AssemblyInfo.cs
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\obj\Debug\net6.0-windows\CongVan3.csproj.CoreCompileInputs.cache
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\obj\Debug\net6.0-windows\CongVan3.csproj.CopyComplete
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\obj\Debug\net6.0-windows\CongVan3.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\obj\Debug\net6.0-windows\refint\CongVan3.dll
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\obj\Debug\net6.0-windows\CongVan3.pdb
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\obj\Debug\net6.0-windows\CongVan3.genruntimeconfig.cache
+D:\job do an\DONE\hoang phuc\400 - hoang phuc - 15-12\CongVan3\obj\Debug\net6.0-windows\ref\CongVan3.dll
